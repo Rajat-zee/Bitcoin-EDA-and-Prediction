@@ -5,6 +5,11 @@
 
 ## Description
 
+Acquired the dataset from kaggel.com and cleansed it from any null values
+
+Found the multicollienarity and build the models for each algorithm
+
+Machine Learning Algorithms used:- ARIMA , Auto ARIMA , LSTM , XGBoost , Prophet
 
 
 ---
