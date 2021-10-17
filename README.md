@@ -1,2 +1,3 @@
 # Bitcoin-EDA-and-Prediction
-Machine Learning College project
+Dataset acquired from kaggel.com
+
