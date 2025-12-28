@@ -12,6 +12,7 @@ Found the multicollienarity and build the models for each algorithm
 Machine Learning Algorithms used:- ARIMA , Auto ARIMA , LSTM , XGBoost , Prophet
 
 
+## Project report included in machine Learning project report (1).pdf"
 ---
 
 
@@ -55,4 +56,8 @@ Machine Learning Algorithms used:- ARIMA , Auto ARIMA , LSTM , XGBoost , Prophet
 ![Project Image](https://github.com/Rajat-zee/Bitcoin-EDA-and-Prediction/blob/main/result/Prophet.png)
 
 ---
+## Author Info
+
+- Linkedin - https://www.linkedin.com/in/rajat-kashyap-a35b59201/
+- Website - https://rajat-zee.github.io/Portfolio2
 
